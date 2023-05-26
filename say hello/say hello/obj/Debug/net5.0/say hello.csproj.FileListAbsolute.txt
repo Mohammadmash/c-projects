@@ -1,0 +1,16 @@
+C:\Users\shiraz computer\source\repos\say hello\say hello\bin\Debug\net5.0\say hello.exe
+C:\Users\shiraz computer\source\repos\say hello\say hello\bin\Debug\net5.0\say hello.deps.json
+C:\Users\shiraz computer\source\repos\say hello\say hello\bin\Debug\net5.0\say hello.runtimeconfig.json
+C:\Users\shiraz computer\source\repos\say hello\say hello\bin\Debug\net5.0\say hello.runtimeconfig.dev.json
+C:\Users\shiraz computer\source\repos\say hello\say hello\bin\Debug\net5.0\say hello.dll
+C:\Users\shiraz computer\source\repos\say hello\say hello\bin\Debug\net5.0\ref\say hello.dll
+C:\Users\shiraz computer\source\repos\say hello\say hello\bin\Debug\net5.0\say hello.pdb
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.csproj.AssemblyReference.cache
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.AssemblyInfoInputs.cache
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.AssemblyInfo.cs
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.csproj.CoreCompileInputs.cache
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.dll
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\ref\say hello.dll
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.pdb
+C:\Users\shiraz computer\source\repos\say hello\say hello\obj\Debug\net5.0\say hello.genruntimeconfig.cache
